@@ -5,3 +5,5 @@ finance-datareader
 plotly
 seaborn
 matplotlib
+koreanize_matplotlib
+scikit-learn
